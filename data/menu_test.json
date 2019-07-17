@@ -1,0 +1,304 @@
+{       
+"Przekąski": {
+        "thumbnail": "przekaski",
+        "dishes": [
+                {"name": "Sajgonki smażone",
+                "ingredients": "Mięso wieprzowe, grzyby, makaron sojowy, jajko",
+                "price": "8 PLN",
+                "photo": 1 },
+
+                {"name": "Krewetki zawijane w wiórki ziemniaczana",
+                "ingredients": "krewetki, wiórki ziemniaczane",
+                "price": "17 PLN",
+                "photo": 2 },
+
+                {"name": "Pierożki Wonton",
+                "ingredients": "Ciemny bulion, cebula dymka, mięta, szczypiorek",
+                "price": "14 PLN",
+                "photo": 3 }
+]},
+
+"Zupy": { 
+        "thumbnail": "ZUPY",                 
+        "dishes": [
+                {"name": "Zupa z gotowaną wołowiną",
+                "ingredients": "Makaron ryżowy, kiełki, mięta, szczypiorek",
+                "price": "10 PLN / 17 PLN",
+                "photo": 4 },
+
+                {"name": "Zupa z gotowanym kurczakiem",
+                "ingredients": "Makaron ryżowy, kiełki, mięta, szczypiorek",
+                "price": "9 PLN / 16 PLN",
+                "photo": 5 },
+
+                {"name": "Zupa ze smażoną wołowiną",
+                "ingredients": "Makaron ryżowy, kiełki, mięta, szczypiorek",
+                "price": "12 PLN / 20 PLN",
+                "photo": 6 },
+
+                {"name": "Zupa z pieczoną kaczkąą",
+                "ingredients": "Makaron ryżowy, kiełki, mięta, szczypiorek",
+                "price": "22 PLN",
+                "photo": 7 },
+
+                {"name": "Zupa z tofu",
+                "ingredients": "Makaron ryżowy, kiełki, mięta, szczypiorek",
+                "price": "14 PLN",
+                "photo": 8 }
+        ]},
+
+"Cienki Makaron Ryżowy":{ 
+        "thumbnail": "THINRICENOODLES",                 
+        "dishes": [
+                {"name": "Cienki makaron ryżowy z wołowiną",
+                "ingredients": "Pikle, sałata, kiełki, zioła, orzeszki, sos",
+                "price": "21 PLN",
+                "photo": 9 }, 
+
+                {"name": "Cienki makaron ryżowy z pieczoną kaczką",
+                "ingredients": "Pikle, sałata, kiełki, zioła, orzeszki, sos",
+                "price": "23 PLN",
+                "photo": 10 },  
+
+                {"name": "Cienki makaron ryżowy ze smażonym tofu",
+                "ingredients": "Pikle, sałata, kiełki, zioła, orzeszki, sos",
+                "price": "15 PLN",
+                "photo": 11 },
+
+                {"name": "Cienki makaron ryżowy ze smażonymi sajgonkami",
+                "ingredients": "Pikle, sałata, kiełki, zioła, orzeszki, sos",
+                "price": "15 PLN",
+                "photo": 12 },
+
+                {"name": "Cienki makaron ryżowy z grillowaną wieprzowiną",
+                "ingredients": "Sałata, kiełki, sos",
+                "price": "19 PLN",
+                "photo": 13 }
+]},
+
+"Kotlety":{ 
+        "thumbnail": "KOTLETY",                 
+        "dishes": [
+                {"name": "Kotlet z kurczaka lub schabu z ryżem",
+                "ingredients": "",
+                "price": "10 PLN",
+                "photo": 14 },  
+
+                {"name": "Kotlet z kurczaka lub schabu z frytkami",
+                "ingredients": "",
+                "price": "12 PLN",
+                "photo": 15 }
+]},
+
+"Dania z kurczaka":{ 
+        "thumbnail": "CHICKEN",                 
+        "dishes": [
+                {"name": "Kurczak w cieście",
+                "ingredients": "Mąka, jajko, sól",
+                "price": "15 PLN",
+                "photo": 16 }, 
+
+                {"name": "Kurczak na chrupiąco",
+                "ingredients": "Tajska panierka, mąka, jajko, sól",
+                "price": "16 PLN",
+                "photo": 17 }, 
+
+                {"name": "Kurczak w sosie pikantnym",
+                "ingredients": "Warzywa, kiełki, cebula, chili, czosnek, grzyby",
+                "price": "15 PLN",
+                "photo": 18 }, 
+
+                {"name": "Filet z kurczaka po wietnamsku",
+                "ingredients": "Sos warzywny, kiełki, chili, papryka",
+                "price": "17 PLN",
+                "photo": 19 }, 
+
+                {"name": "Kurczak zapiekany w sosie pikantnym",
+                "ingredients": "",
+                "price": "17 PLN",
+                "photo": 20 }
+]},
+
+"Dania z wieprzowiny":{ 
+        "thumbnail": "PORK",                 
+        "dishes": [
+                {"name": "Wieprzowina w sosie warzywnym",
+                "ingredients": "Warzywa po pekińsku, grzyby, cebula, kiełki, ryż, surówka",
+                "price": "15 PLN",
+                "photo": 21 },
+
+                {"name": "Wieprzowina z cebulą i kiełkami na ostro",
+                "ingredients": "Ryż, surówka",
+                "price": "15 PLN",
+                "photo": 22 }
+]},
+
+"Dania z wołowimy":{
+        "thumbnail": "BEEF",
+        "dishes": [
+                {"name": "Wołowina z cebulą i kiełkami",
+                "ingredients": "Ryż, surówka",
+                "price": "19 PLN",
+                "photo": 23 },
+
+                {"name": "Wołowina w sobie pikantnym",
+                "ingredients": "Warzywa po pekińsku, grzyby, cebula, kiełki, ryż, surówka",
+                "price": "18 PLN",
+                "photo": 24 },
+
+                {"name": "Smażona wołowina kapustą wietnamską",
+                "ingredients": "kiełki, ryż, surówka",
+                "price": "19 PLN",
+                "photo": 25 }
+]},
+
+"Dania z kaczki":{     
+        "thumbnail": "DUCK",
+        "dishes": [
+                {"name": "Kaczka pieczona w sosie pikantnym",
+                "ingredients": "Ryż, surówka",
+                "price": "23 PLN",
+                "photo": 26 },
+
+                {"name": "Kaczka na chrupiąco",
+                "ingredients": "Ryż, surówka",
+                "price": "23 PLN",
+                "photo": 27 }
+]},
+
+"Dania wegetariańskie":{     
+        "thumbnail": "VEGAN",
+        "dishes": [
+                {"name": "Ryż smażony z warzywami",
+                "ingredients": "Warzywa, kiełki, jajko, cebula, kukurydza, marchewka, groszek",
+                "price": "12 PLN",
+                "photo": 28 },
+
+                {"name": "Makaron sojowy z warzywami",
+                "ingredients": "Warzywa, cebula, kiełki, kukurydza, marchewka, groszek",
+                "price": "13 PLN",
+                "photo": 29 }
+]},
+
+"Ryż smażony":{
+        "thumbnail": "FIREDRICE",
+        "dishes": [
+                {"name": "Ryż smażony z kurczakiem lub wieprzowiną",
+                "ingredients": "Jajko, kukurydza, marchewka, groszek, kiełki, cebula",
+                "price": "15 PLN",
+                "photo": 30 },
+
+                {"name": "Ryż smażony z wołowiną",
+                "ingredients": "Jajko, kukurydza, marchewka, groszek, kiełki, cebula",
+                "price": "18 PLN",
+                "photo": 31 },
+
+                {"name": "Ryż smażony z krewetkami",
+                "ingredients": "Jajko, kukurydza, marchewka, groszek, kiełki, cebula",
+                "price": "20 PLN",
+                "photo": 32 }
+]},
+
+"Makaron smażony":{
+        "thumbnail": "FRIEDPASTA",
+        "dishes": [
+                {"name": "Makaron smażony z kurczakiem lub wieprzowiną",
+                "ingredients": "Makaron sojowy lub ryżowy, kiełki, cebula, groszek, kukurydza, marchewka, warzywa",
+                "price": "16 PLN",
+                "photo": 33 },
+                
+                {"name": "Makaron smażony z wołowiną",
+                "ingredients": "Makaron sojowy lub ryżowy, kiełki, cebula, groszek, kukurydza, marchewka, warzywa",
+                "price": "18 PLN",
+                "photo": 34 },
+
+                {"name": "Ryż smażony z krewetkami",
+                "ingredients": "Makaron sojowy lub ryżowy, kiełki, cebula, groszek, kukurydza, marchewka, warzywa",
+                "price": "20 PLN",
+                "photo": 35 }
+]},
+
+"Krewetki":{ 
+        "thumbnail": "SHRIMPS",
+        "dishes": [
+                {"name": "Krewetki królewskie w cieście sezamowym",
+                "ingredients": "ryż, surówka",
+                "price": "20 PLN",
+                "photo": 36 },
+
+                {"name": "Krewetki królewskie na chrupiąco",
+                "ingredients": "ryż, surówka",
+                "price": "23 PLN",
+                "photo": 37 }
+]},
+
+"Desery":{
+        "thumbnail": "DESSERTS",
+        "dishes": [
+                {"name": "Banany w cieście",
+                "ingredients": "ryż, surówka",
+                "price": "5 PLN",
+                "photo": 38 },
+
+                {"name": "Ananas w cieście",
+                "ingredients": "ryż, surówka",
+                "price": "5 PLN",
+                "photo": 39 }
+]},
+
+"Dodatki": {
+        "thumbnail": "EXTRAS",
+        "dishes": [
+                {"name": "Surówka z białej kapusty",
+                "ingredients": "",
+                "price": "2.5 PLN",
+                "photo": 40
+                },
+
+                {"name": "Ryż biały",
+                "ingredients": "",
+                "price": "2.5 PLN",
+                "photo": 41
+                },
+
+                {"name": "Opakowanie na wynos",
+                "ingredients": "",
+                "price": "1 PLN",
+                "photo": 43
+                }
+]},
+
+"Napoje":{
+        "thumbnail": "DRINKS",
+        "dishes": [
+                {"name": "Herbata Lipton",
+                "ingredients": "",
+                "price": "3 PLN",
+                "photo": 44 },
+
+                {"name": "Herbata zielona",
+                "ingredients": "",
+                "price": "4 PLN",
+                "photo": 45},
+
+                {"name": "Kawa",
+                "ingredients": "",
+                "price": "4 PLN",
+                "photo": 46 },
+
+                {"name": "Sok Cappy",
+                "ingredients": "",
+                "price": "3.5 PLN",
+                "photo": 47 },
+
+                {"name": "Coca Cola/FuzeTea/Fanta",
+                "ingredients": "",
+                "price": "4 PLN",
+                "photo": 48 },
+
+                {"name": "Woda gazowana/niegazowana",
+                "ingredients": "",
+                "price": "3 PLN",
+                "photo": 49 }
+]}
+}
